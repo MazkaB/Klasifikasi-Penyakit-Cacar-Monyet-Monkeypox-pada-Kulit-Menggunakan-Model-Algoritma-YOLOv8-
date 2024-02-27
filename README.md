@@ -1,0 +1,1 @@
+# Klasifikasi-Penyakit-Cacar-Monyet-Monkeypox-pada-Kulit-Menggunakan-Model-Algoritma-YOLOv8-
